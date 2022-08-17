@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to TOMCAT DevOps Project !!   </h1>
+<h1> Hello, Welcome to simple TOMCAT DevOps Project !!   </h1>
 
